@@ -51,6 +51,7 @@
     "enzyme-adapter-react-16": "^1.15.6",
     "jest-watch-typeahead": "^0.6.5",
     "lodash": "^4.17.21",
-    "react-test-renderer": "^17.0.2"
+    "react-test-renderer": "^17.0.2",
+     "@babel/plugin-proposal-decorators":"7.16.4"
   }
 }
